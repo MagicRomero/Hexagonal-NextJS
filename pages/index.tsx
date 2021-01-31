@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Sendyzer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>Heyyyy poppins</h1>
+      <h2>Heyyyy</h2>
     </div>
   );
 }
